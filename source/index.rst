@@ -1,4 +1,4 @@
-`SWHL/RapidVideOCR <https://github.com/SWHL/RapidVideOCR>`_
+`RapidAI/RapidOCR <https://github.com/RapidAI/RapidOCR>`_
 ========================================
 
 .. toctree::
