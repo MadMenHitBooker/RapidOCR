@@ -109,7 +109,7 @@
 
 
 ## 生态框架
-```mermaid
+```{mermaid}
 flowchart LR
     subgraph Step
     direction TB
