@@ -10,7 +10,7 @@ project = 'RapidOCR'
 copyright = 'RapidAI'
 author = 'RapidAI'
 
-latest_version = GetPyPiLatestVersion()(project)
+latest_version = GetPyPiLatestVersion()('rapidocr_onnxruntime')
 release = f'v{latest_version}'
 repo_url = 'https://github.com/RapidAI/RapidOCR'
 
