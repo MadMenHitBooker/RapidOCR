@@ -10,6 +10,12 @@ Submodules
 ----------
 
 
+.. automodule:: ocrweb.rapidocr_web.api
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+
 .. automodule:: ocrweb.rapidocr_web.ocrweb
    :members:
    :undoc-members:
