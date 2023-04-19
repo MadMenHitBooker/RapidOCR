@@ -9,7 +9,6 @@ Subpackages
 .. toctree::
    :maxdepth: 6
 
-   python.rapid_structure
    python.rapidocr_onnxruntime
    python.rapidocr_openvino
    python.tests
